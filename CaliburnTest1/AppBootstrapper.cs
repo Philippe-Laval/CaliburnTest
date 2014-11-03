@@ -15,6 +15,7 @@ using Caliburn.Micro;
 // http://www.safnet.com/writing/tech/2013/12/a-single-screen-workflow-application-in-wpf.html
 // http://reggie.codeplex.com/
 
+// A good tutorial serie
 // http://www.mindscapehq.com/blog/index.php/2012/01/12/caliburn-micro-part-1-getting-started/
 // http://www.mindscapehq.com/blog/index.php/2012/1/16/caliburn-micro-part-2-data-binding-and-events/
 // http://www.mindscapehq.com/blog/index.php/2012/1/24/caliburn-micro-part-3-more-about-events-and-parameters/
