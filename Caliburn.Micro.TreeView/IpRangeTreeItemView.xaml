@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Caliburn.Micro.TreeView.IpRangeTreeItemView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:cal="http://www.caliburnproject.org"
+             mc:Ignorable="d" >
+    <StackPanel Orientation="Horizontal">
+        <TextBlock Text="IpRange: " />
+        <TextBlock x:Name="Name" />
+        <StackPanel.ContextMenu>
+            <ContextMenu>
+                <MenuItem Header="Add a new IP Range" cal:Message.Attach="AddNewIpRange($dataContext)" />
+                <MenuItem Header="Remove this IP Range" cal:Message.Attach="RemoveIpRange($dataContext)" />
+                <MenuItem Header="Todo1" cal:Message.Attach="Todo1($dataContext)" />
+                <MenuItem Header="Todo2" cal:Message.Attach="Todo2($dataContext)" />
+            </ContextMenu>
+        </StackPanel.ContextMenu>
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Caliburn.Micro.TreeView.CollectionPointTreeItemView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:cal="http://www.caliburnproject.org"
+             mc:Ignorable="d" >
+    <StackPanel Orientation="Horizontal">
+        <TextBlock Text="CollectionPoint: " />
+        <TextBlock x:Name="Name" />
+        <StackPanel.ContextMenu>
+            <ContextMenu>
+                <MenuItem Header="Add a new IP Range" cal:Message.Attach="AddNewIpRange($dataContext)" />
+                <MenuItem Header="Remove this Collection Point" cal:Message.Attach="RemoveCollectionPoint($dataContext)" />
+                <MenuItem Header="Add a new Collection Point" cal:Message.Attach="AddNewCollectionPoint($dataContext)" />
+            </ContextMenu>
+        </StackPanel.ContextMenu>
+    </StackPanel>
+</UserControl>

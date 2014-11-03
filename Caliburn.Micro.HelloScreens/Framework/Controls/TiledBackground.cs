@@ -1,0 +1,15 @@
+e\COMPONENTS\DerivedData\Components\amd64_microsoft-windows-tcpip-binaries_31bf3856ad364e35_6.3.9600.17238_none_a4166a733a313d8b" name="CF" type="0x00000004" encoding="base64" value="AAEAAA=="/>
+        <DeleteKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft-windows-ndis-minwin_31bf3856ad364e35_6.3.9600.17031_none_4a46d083fbdd5ca3" name="CF"/>
+        <SetKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft-windows-ndis-minwin_31bf3856ad364e35_6.3.9600.17199_none_4a0df531fc06cc28" name="CF" type="0x00000004" encoding="base64" value="AAEAAA=="/>
+        <DeleteKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft.windows.gdiplus.systemcopy_31bf3856ad364e35_6.3.9600.17056_none_d7bb4a6dc9ea8b79" name="CF"/>
+        <SetKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft.windows.gdiplus.systemcopy_31bf3856ad364e35_6.3.9600.17227_none_d7dcbe47c9d14b4b" name="CF" type="0x00000004" encoding="base64" value="AAEAAA=="/>
+        <DeleteKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft-windows-user32_31bf3856ad364e35_6.3.9600.17031_none_be29be90412dd018" name="CF"/>
+        <SetKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft-windows-user32_31bf3856ad364e35_6.3.9600.17238_none_be30c46241277bc7" name="CF" type="0x00000004" encoding="base64" value="AAEAAA=="/>
+        <DeleteKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\wow64_microsoft-windows-lsa_31bf3856ad364e35_6.3.9600.17193_none_a151aa55652c2292" name="CF"/>
+        <SetKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\wow64_microsoft-windows-lsa_31bf3856ad364e35_6.3.9600.17231_none_a1908b2f64fd4565" name="CF" type="0x00000004" encoding="base64" value="AAEAAA=="/>
+        <DeleteKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft-windows-profsvc_31bf3856ad364e35_6.3.9600.17039_none_ecaaac0c06772747" name="CF"/>
+        <SetKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft-windows-profsvc_31bf3856ad364e35_6.3.9600.17238_none_eca9af8e0678083e" name="CF" type="0x00000004" encoding="base64" value="AAEAAA=="/>
+        <DeleteKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.9600.17056_none_932f2645474c8242" name="CF"/>
+        <SetKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.9600.17227_none_932c0e57474f5080" name="CF" type="0x00000004" encoding="base64" value="AAEAAA=="/>
+        <DeleteKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.9600.17056_none_eb8aee37c2c2d1a1" name="CF"/>
+        <SetKeyValue path="\Registry\Machine\COMPONENTS\DerivedData\Components\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.0.9600.17227_none_e

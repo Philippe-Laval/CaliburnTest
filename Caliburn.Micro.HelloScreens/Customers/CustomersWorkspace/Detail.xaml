@@ -1,0 +1,5 @@
+﻿<UserControl x:Class="Caliburn.Micro.HelloScreens.Customers.CustomersWorkspace.Detail"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<ContentControl x:Name="ActiveItem" />
+</UserControl>
