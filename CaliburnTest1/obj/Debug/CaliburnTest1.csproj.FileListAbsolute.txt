@@ -19,3 +19,25 @@ c:\users\philippe\documents\visual studio 2013\Projects\CaliburnTest1\CaliburnTe
 c:\users\philippe\documents\visual studio 2013\Projects\CaliburnTest1\CaliburnTest1\obj\Debug\App.baml
 c:\users\philippe\documents\visual studio 2013\Projects\CaliburnTest1\CaliburnTest1\obj\Debug\CaliburnTest1.exe
 c:\users\philippe\documents\visual studio 2013\Projects\CaliburnTest1\CaliburnTest1\obj\Debug\CaliburnTest1.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\CaliburnTest1.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\CaliburnTest1.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\CaliburnTest1.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\CaliburnTest1.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\CaliburnTest1.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\CaliburnTest1.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\AppView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\AppView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\CaliburnTest1_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\CaliburnTest1_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\CaliburnTest1.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\CaliburnTest1.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\CaliburnTest1\obj\Debug\CaliburnTest1.csproj.GenerateResource.Cache

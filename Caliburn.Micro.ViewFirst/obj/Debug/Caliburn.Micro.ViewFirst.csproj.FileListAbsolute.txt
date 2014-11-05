@@ -20,3 +20,25 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.csproj.GenerateResource.Cache
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.exe
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\Caliburn.Micro.ViewFirst.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\Caliburn.Micro.ViewFirst.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\Caliburn.Micro.ViewFirst.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\ShellView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\ShellView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.ViewFirst\obj\Debug\Caliburn.Micro.ViewFirst.pdb

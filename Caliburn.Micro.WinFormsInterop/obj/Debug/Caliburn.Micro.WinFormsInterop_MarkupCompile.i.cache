@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.WinFormsInterop\obj\Debug\
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\
 Caliburn.Micro.WinFormsInterop
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 11811751144
 
 13-1410445101
-20-1877737445
+20-1832929618
 Views\MainView.xaml;
 
 False

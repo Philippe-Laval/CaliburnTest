@@ -22,3 +22,27 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.csproj.GenerateResource.Cache
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.exe
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.SimpleMDI.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.SimpleMDI.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.SimpleMDI.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\ShellView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\TabView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\ShellView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\TabView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleMDI\obj\Debug\Caliburn.Micro.SimpleMDI.pdb

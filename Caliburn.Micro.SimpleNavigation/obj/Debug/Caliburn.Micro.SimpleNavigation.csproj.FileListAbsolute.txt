@@ -23,3 +23,28 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation.csproj.GenerateResource.Cache
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation.exe
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\Caliburn.Micro.SimpleNavigation.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\Caliburn.Micro.SimpleNavigation.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\Caliburn.Micro.SimpleNavigation.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\PageOneView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\PageTwoView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\ShellView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\PageOneView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\PageTwoView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\ShellView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.SimpleNavigation\obj\Debug\Caliburn.Micro.SimpleNavigation.pdb

@@ -22,3 +22,27 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid.csprojResolveAssemblyReference.cache
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.DataGrid\obj\Debug\ArticleView.baml
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.DataGrid\obj\Debug\ArticleView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\Caliburn.Micro.DataGrid.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\Caliburn.Micro.DataGrid.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\Caliburn.Micro.DataGrid.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\ArticleView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\ArticleView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\ShellView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\ShellView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.DataGrid\obj\Debug\Caliburn.Micro.DataGrid.pdb

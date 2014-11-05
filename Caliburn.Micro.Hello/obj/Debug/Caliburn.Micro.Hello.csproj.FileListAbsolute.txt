@@ -20,3 +20,25 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.exe
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.pdb
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\Caliburn.Micro.Hello.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\Caliburn.Micro.Hello.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\Caliburn.Micro.Hello.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\ShellView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\ShellView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.Hello\obj\Debug\Caliburn.Micro.Hello.pdb

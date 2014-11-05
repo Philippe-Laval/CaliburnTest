@@ -24,3 +24,29 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.HelloEventAggregator\bin\Debug\System.Windows.Interactivity.xml
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.HelloEventAggregator\obj\Debug\App.baml
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\Caliburn.Micro.HelloEventAggregator.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\Caliburn.Micro.HelloEventAggregator.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\Caliburn.Micro.HelloEventAggregator.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\LeftView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\RightView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\ShellView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\LeftView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\RightView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\ShellView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.HelloEventAggregator\obj\Debug\Caliburn.Micro.HelloEventAggregator.pdb

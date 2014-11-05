@@ -32,3 +32,37 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.TreeView\obj\Debug\IpRangeView.g.cs
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.TreeView\obj\Debug\CollectionPointView.baml
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.TreeView\obj\Debug\CollectionPointView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\Caliburn.Micro.TreeView.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\Caliburn.Micro.TreeView.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\Caliburn.Micro.TreeView.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\Caliburn.Micro.TreeView.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\CollectionPointTreeItemView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\CollectionPointView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\GroupTreeItemView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\GroupView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\IpRangeView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\IpRangeTreeItemView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\CollectionPointTreeItemView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\CollectionPointView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\GroupTreeItemView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\GroupView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\IpRangeView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\ShellView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\IpRangeTreeItemView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\Caliburn.Micro.TreeView_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\Caliburn.Micro.TreeView_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\ShellView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\Caliburn.Micro.TreeView.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\Caliburn.Micro.TreeView.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\Caliburn.Micro.TreeView.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\Caliburn.Micro.TreeView.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.TreeView\obj\Debug\Caliburn.Micro.TreeView.pdb

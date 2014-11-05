@@ -20,3 +20,25 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.KeyBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding_MarkupCompile.lref
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.KeyBinding\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\Caliburn.Micro.KeyBinding.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\Caliburn.Micro.KeyBinding.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\Caliburn.Micro.KeyBinding.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\ShellView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\ShellView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\App.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding_MarkupCompile.lref
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\App.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.KeyBinding\obj\Debug\Caliburn.Micro.KeyBinding.pdb

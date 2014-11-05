@@ -17,3 +17,22 @@ C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.M
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.WinFormsInterop\bin\Debug\System.Windows.Interactivity.xml
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.exe
 C:\Users\philippe\Documents\Visual Studio 2013\Projects\CaliburnTest1\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\Caliburn.Micro.WinFormsInterop.exe.config
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\Caliburn.Micro.WinFormsInterop.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\Caliburn.Micro.WinFormsInterop.pdb
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\Caliburn.Micro.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\Caliburn.Micro.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.csprojResolveAssemblyReference.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Views\MainView.baml
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Views\MainView.g.cs
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop_MarkupCompile.cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.g.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.MainForm.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.Properties.Resources.resources
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.csproj.GenerateResource.Cache
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.exe
+C:\Users\philippe\Documents\GitHub\CaliburnTest\Caliburn.Micro.WinFormsInterop\obj\Debug\Caliburn.Micro.WinFormsInterop.pdb
