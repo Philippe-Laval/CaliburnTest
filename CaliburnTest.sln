@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliburn.Micro.DataGrid", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliburn.Micro.TabPanel", "Caliburn.Micro.TabPanel\Caliburn.Micro.TabPanel.csproj", "{27776044-FE4E-4BD9-A5E3-2EF03B020124}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caliburn.Micro.FluentValidation", "Caliburn.Micro.FluentValidation\Caliburn.Micro.FluentValidation.csproj", "{2E467952-127E-4C9A-BA28-7CDB34AF7AC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{27776044-FE4E-4BD9-A5E3-2EF03B020124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27776044-FE4E-4BD9-A5E3-2EF03B020124}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27776044-FE4E-4BD9-A5E3-2EF03B020124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E467952-127E-4C9A-BA28-7CDB34AF7AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E467952-127E-4C9A-BA28-7CDB34AF7AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E467952-127E-4C9A-BA28-7CDB34AF7AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E467952-127E-4C9A-BA28-7CDB34AF7AC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
