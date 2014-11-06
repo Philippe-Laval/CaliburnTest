@@ -72,6 +72,8 @@
     </Compile>
     <Compile Include="IShell.cs" />
     <Compile Include="ShellViewModel.cs" />
+    <Compile Include="ShellValidator.cs" />
+    <Compile Include="StringNullOrEmptyToVisibilityConverter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MefBootstrapper.cs" />
