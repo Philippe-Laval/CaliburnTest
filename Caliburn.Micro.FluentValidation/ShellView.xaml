@@ -1,7 +1,8 @@
 ﻿<UserControl x:Class="Caliburn.Micro.FluentValidation.ShellView"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Caliburn.Micro.FluentValidation">
+             xmlns:local="clr-namespace:Caliburn.Micro.FluentValidation"
+             Height="200" Width="200">
     <StackPanel>
         <TextBox x:Name="Error" Visibility="{Binding Error, Converter={local:StringNullOrEmptyToVisibilityConverter}}" />
         <TextBox x:Name="Name" Text="{Binding Name, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
