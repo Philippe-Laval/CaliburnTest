@@ -64,7 +64,7 @@
 
         public void SayHello()
         {
-            MessageBox.Show(string.Format("Hello {0}!", Name));
+            MessageBox.Show(string.Format("Hello {0} {1} {2}!", Name, Email, Zip));
         }
 
         #region IDataErrorInfo

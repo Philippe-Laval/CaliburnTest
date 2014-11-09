@@ -74,6 +74,7 @@
     <Compile Include="ShellViewModel.cs" />
     <Compile Include="ShellValidator.cs" />
     <Compile Include="StringNullOrEmptyToVisibilityConverter.cs" />
+    <Compile Include="TwoColumnGrid.cs" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MefBootstrapper.cs" />
