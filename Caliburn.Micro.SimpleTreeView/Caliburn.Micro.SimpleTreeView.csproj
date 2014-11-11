@@ -70,6 +70,7 @@
     <Compile Include="Domain.cs" />
     <Compile Include="Entry.cs" />
     <Compile Include="IShell.cs" />
+    <Compile Include="ITreeItem.cs" />
     <Compile Include="ShellViewModel.cs" />
     <Compile Include="TestData.cs" />
   </ItemGroup>
